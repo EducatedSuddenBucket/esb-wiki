@@ -4,8 +4,8 @@
     "vitepress": "^1.6.4"
   },
   "scripts": {
-    "docs:dev": "vitepress dev wiki",
-    "docs:build": "vitepress build wiki",
-    "docs:preview": "vitepress preview wiki"
+    "wiki:dev": "vitepress dev wiki",
+    "wiki:build": "vitepress build wiki",
+    "wiki:preview": "vitepress preview wiki"
   }
 }
