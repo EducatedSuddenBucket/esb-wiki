@@ -1,7 +1,8 @@
 {
   "dependencies": {},
   "devDependencies": {
-    "vitepress": "^1.6.4"
+    "vitepress": "^1.6.4",
+    "vitepress-plugin-llms": "^1.13.2"
   },
   "scripts": {
     "wiki:dev": "vitepress dev wiki",
