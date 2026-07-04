@@ -1,4 +1,4 @@
 ---
-title : WIP
+title: WIP
 ---
 WIP
